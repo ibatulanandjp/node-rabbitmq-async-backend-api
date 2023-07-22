@@ -9,7 +9,7 @@ The blog post associated with this repository explains how to use RabbitMQ as a 
 Author: [Atul Anand](https://www.linkedin.com/in/ibatulanand/)
 
 
-# Requirements
+## Requirements
 Before running the application, ensure you have the following installed on your system:
 
 * Node.js: The backend is developed using Node.js. You can download it from the official website (https://nodejs.org) and install it on your system.
@@ -17,7 +17,7 @@ Before running the application, ensure you have the following installed on your 
 * RabbitMQ: RabbitMQ is an open-source message-broker software. Download and install it from the official website (https://www.rabbitmq.com/download.html) following the installation instructions for your operating system.
 
 
-# Getting Started
+## Getting Started
 
 To run the application, follow these steps:
 
@@ -59,12 +59,12 @@ To run the application, follow these steps:
    ![cli-output-producer-consumer](./assets/images/cli-output-producer-consumer.png)
 
 
+## Detailed Explanation
+For a detailed explanation of how the backend API and RabbitMQ message queue work together, please refer to the [technical blog]("https://ibatulanand.medium.com/enhancing-api-responsiveness-leveraging-rabbitmq-to-introduce-asynchronous-processing-in-node-js-23a522ace93d") associated with this repository.
 
-# License
-This project is licensed under the MIT License.
 
-Feel free to use, modify, and distribute this code as per the terms of the MIT License.
+## Security
+See [CONTRIBUTING](CONTRIBUTING.md) for more information. 
 
-For a detailed explanation of how the backend API and RabbitMQ message queue work together, please refer to the technical blog associated with this repository.
-
-Happy coding!
+## License
+This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE) file.
